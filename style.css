@@ -1,0 +1,67 @@
+.home{
+  color: blue;
+  font-size: larger;
+  margin: 2%
+}
+.home1{
+  color: brown;
+  font-size: medium;
+  margin: 5%;
+  background-color: aquamarine;
+  border: 1px solid black;
+  padding: 5px;
+}
+.profile{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: yellow;
+    margin: 5%;
+    border: 5pxs;
+}
+.profile1{
+  color: brown;
+  font-size: medium;
+  margin: 5%;
+  background-color: rgb(93, 163, 13);
+  border: 5px yellowgreen;
+  padding: 5px;
+  text-decoration: none;
+}
+.academic1{
+  color: rgb(13, 201, 185);
+  font-size: medium;
+  margin: 5%;
+}
+.academic2{
+  color: rgb(137, 163, 87);
+  font-size: medium;
+  margin: 5%;
+  background-color: rgb(7, 138, 116);
+  border: 5px rgb(14, 80, 143);
+  padding: 5px;
+  text-decoration: none;
+}
+.academic3{
+  color: brown;
+  font-size: medium;
+  margin: 5%;
+  background-color: aquamarine;
+  border: 1px solid black;
+  padding: 5px;
+}
+.contact1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: green;
+  color: yellow;
+  margin: 5%;
+  border: 5pxs;
+}
+.contact2{
+  color: rgb(137, 163, 87);
+  font-size: medium;
+  margin: 5%;
+  background-color: black;
+  border: 5px rgb(14, 80, 143);
+  padding: 5px;
+  text-decoration: none;
+}
